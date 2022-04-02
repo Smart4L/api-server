@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.3",
+  "appInfo": {
+    "name": "Raid 44L",
+    "description": "",
+    "version": "q2c1fyew",
+    "id": "cl1gdx4wn66024301s6jy7ujlrb",
+    "url": "https://app.amplication.com/cl1gdx4wn66024301s6jy7ujlrb",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl1gdx4wn66024301s6jy7ujlrb",
+      "authProvider": "Jwt"
+    }
+  }
+}
